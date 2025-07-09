@@ -1,1 +1,53 @@
 
+# SOP – Reset Password User Hotspot
+
+**Versi:** 1.0  
+**Dibuat oleh:** Aji Jaya Teknologi 
+**Tanggal:** 9 Juli 2025
+
+---
+
+## 🎯 Tujuan
+Memberikan panduan langkah demi langkah untuk melakukan reset password pada akun user hostspot di lingkungan kerja.
+
+---
+
+## 📌 Ruang Lingkup
+- Sistem operasi Windows 10/11
+- Winbox
+- vi oVPN
+
+---
+
+## 🛠️ Peralatan & Akses yang Diperlukan
+- Akses ke Mikrotik dengan akun nama masing-masing
+- Winbox
+- Sharedoc List Checklist change password
+
+---
+
+## 🔄 Prosedur Langkah Demi Langkah
+
+1. Kirim pemberitahuan via Broadcast WAG waktu reset passowrd H-1 atau hari H pagi hari, lengkap dengan username dan password nya yg baru
+2. Kerjakan di salah satu center vOffice
+3. Terhubung ke OVPN
+4. Buka Sharedoc checklist nama-nama center yang akan direset password hotspot nya
+5. Lakukan reset 1/1 center dengan menggunakan Winbox
+6. Ketika 1 center sudah up kembali mikrotiknya, bisa lanjut ke center lain sampai selesai
+7. Kirim pemberitahuan via Broadcast WAG waktu reset passowrd sudah selesai
+
+
+---
+
+## ⚠️ Catatan Penting
+- Gunakan perputaran password yang tepat.
+- Hapus Cache, user active pada Mirotik
+- Check firmware update selalu
+- Backup konfigurasi dan simpan ke tempat yang sudah ditentukan
+
+---
+
+## ✅ Checklist
+- [x] Akses sebagai admin
+- [x] Identifikasi user
+- [x] Reset password berhasil
