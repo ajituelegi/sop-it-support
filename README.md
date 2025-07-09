@@ -35,6 +35,6 @@ Repositori ini berisi kumpulan dokumen dan panduan yang berkaitan dengan operasi
 
 ## 🏷️ Tentang
 
-**Aji Agus (ajituelegi)**  
-IT Support & Helpdesk Manager | Founder of Aji Jaya Teknologi & Panji Insight  
+**Aji Jaya teknologi**  
+IT Support & Helpdesk Manager | Founder of Aji Jaya Teknologi  
 🔗 [Linktree: linktr.ee/ajituelegi](https://linktr.ee/ajituelegi)
